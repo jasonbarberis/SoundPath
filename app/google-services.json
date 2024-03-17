@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1102886553",
+    "project_id": "soundpath-6b7bc",
+    "storage_bucket": "soundpath-6b7bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1102886553:android:ea10a9860be37519246a08",
+        "android_client_info": {
+          "package_name": "com.example.soundpath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1102886553-24sk6kneain1pfq5q1d59ufc7o7vhldl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6BAwYzRooLb0JLpjfaPNYPLNDS1UeaFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1102886553-24sk6kneain1pfq5q1d59ufc7o7vhldl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
